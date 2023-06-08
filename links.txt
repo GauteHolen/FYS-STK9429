@@ -1,0 +1,3 @@
+Poisson's equatoin Jacobian, FFT etc:
+http://people.eecs.berkeley.edu/~demmel/cs267/lecture24/lecture24.html
+
